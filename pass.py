@@ -1,8 +1,3 @@
-#Dela Cruz,Quincy Jones
-#2200210
-#BSIT 1B
-#GROUP 20
-
 import random
 import string
 
